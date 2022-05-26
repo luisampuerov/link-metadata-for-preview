@@ -13,5 +13,9 @@
     "helmet": "^3.22.0",
     "link-preview-generator": "0.0.4",
     "morgan": "~1.9.1"
+  },
+  "engines": {
+    "node": "14.19",
+    "npm": "6.14"
   }
 }
